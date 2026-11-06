@@ -1,0 +1,36 @@
+﻿# Keil / MDK build outputs
+**/MDK-ARM/RTOS/
+**/MDK-ARM/AHT20/
+**/MDK-ARM/Listings/
+**/MDK-ARM/Objects/
+**/*.axf
+**/*.hex
+**/*.bin
+**/*.map
+**/*.o
+**/*.d
+**/*.crf
+**/*.lst
+**/*.lnp
+**/*.dep
+**/*.htm
+**/*.build_log.htm
+**/*.uvguix.*
+**/*.bak
+**/*.bak_*
+**/*.log
+
+# OS / editor
+**/.DS_Store
+**/Thumbs.db
+**/desktop.ini
+# CMSIS extras not used by these Keil projects
+**/Drivers/CMSIS/DSP/
+**/Drivers/CMSIS/Lib/
+**/Drivers/CMSIS/Core_A/
+**/Drivers/CMSIS/RTOS/
+**/Drivers/CMSIS/RTOS2/
+**/Drivers/CMSIS/NN/
+**/Drivers/CMSIS/Pack/
+**/Drivers/CMSIS/docs/
+**/Drivers/CMSIS/DoxyGen/
